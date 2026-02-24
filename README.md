@@ -1,1 +1,1 @@
-For B2B team. Slack Noti App
+몽키트래블 내부 게시판 글을 감지하여 Slack으로 알림을 보내는 .py 앱
